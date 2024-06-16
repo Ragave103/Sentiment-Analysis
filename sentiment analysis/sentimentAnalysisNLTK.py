@@ -1,3 +1,5 @@
+# This program uses SentimentIntensityAnalyzer of NLTK (Natural Language Toolkit) for Sentiment Analysis
+
 import string
 import nltk
 from nltk.corpus import stopwords
