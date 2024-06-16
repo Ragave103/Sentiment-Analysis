@@ -1,3 +1,4 @@
+# This program uses stopwords of NLTK (Natural Language Toolkit) only for Sentiment Analysis
 import string
 
 from nltk.corpus import stopwords
